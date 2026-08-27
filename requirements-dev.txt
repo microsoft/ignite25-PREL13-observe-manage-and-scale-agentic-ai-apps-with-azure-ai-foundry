@@ -28,7 +28,7 @@ agent-framework-core==1.0.0b251108
 
 ## ............... Azure OpenAI Dependencies
 openai==2.7.2              # Azure OpenAI Python client
-requests==2.32.5           # HTTP requests library
+requests==2.33.0           # HTTP requests library
 tiktoken==0.12.0           # Tokenization library for OpenAI models 
 
 ## ............... Tracing Lab Dependencies
